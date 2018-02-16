@@ -1,5 +1,6 @@
 # Julian Conneely, 2018-02-03
-# A program that displays Fibonacci numbers.
+# A program that displays Fibonacci numbers
+# My name is Julian, so the first and last letter of my name (J + N = 10 + 14) give the number 24. The 24th Fibonacci number is 46,368
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
