@@ -1,5 +1,5 @@
-# Julian Conneely, 2018-02-16
-# Python Problem Sets and assignments
+# Julian Conneely, 2018-02-14
+# sample-python-code
+This file contains exercise 1 and 2
 
-fib.py contains Exercise 1
-fibsurname.py contains Exercise 2
+Collatz.py contains Exercise 3
