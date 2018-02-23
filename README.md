@@ -1,5 +1,8 @@
-# Julian Conneely, 2018-02-14
-# sample-python-code
-This file contains exercise 1 and 2
+Julian Conneely, 2018-02-23
+Python-Problem-Sets
 
-Collatz.py contains Exercise 3
+fib.py contains exercise 1
+
+fibsurname.py contains exercise 2
+
+collatz.py contains Exercise 3
