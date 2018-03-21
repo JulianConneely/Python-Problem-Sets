@@ -1,5 +1,5 @@
 #Julian Conneely, 21/03/18
-#while lopp with increment
+#while loop with increment
 
 #X is equal to 0 
 #While X is less than or equal to 20 
