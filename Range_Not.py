@@ -1,7 +1,7 @@
 #Julian Conneely 23/03/18
 #using Range and Not
 
-#so [0,1,2,3,4,5,6,7,8,9] 
+# Teh range is [0,1,2,3,4,5,6,7,8,9] 
 #0%2=0 so nothing is printed 
 #1%2=1 so 1 + 1 = 2 
 #2%2=0 so nothing is printed 
