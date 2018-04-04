@@ -10,3 +10,5 @@ collatz.py contains Exercise 3
 euler5.py contains exercise 4
 
 iris.py contains exercise 5
+
+factorial.py contains exercise 6
