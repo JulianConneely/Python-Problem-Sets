@@ -2,7 +2,6 @@
 # Iris data set, Exercise 5
 
 # With knows files, auto closes so no need to close
-# 
 
 with open("data/iris.csv") as f: # create a block of python code with f as the name of the file that is open (iris.csv)
   for line in f:                 # loop through the lines in f 
@@ -11,4 +10,4 @@ with open("data/iris.csv") as f: # create a block of python code with f as the n
     # assigns 3 spaces to each element, with 2 spaces assigned for the decimal and one for the space between columns
     print('{:3} {:3} {:3} {:3}'.format(line.split(',')[0], line.split(',')[1], line.split(',')[2], line.split(',')[3]))     
      
-    
+     
