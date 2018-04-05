@@ -1,28 +1,15 @@
 # Julian Conneely 04/04/18
 # Exercise 6
+# define a function
 
-#define a function
-#sumall is a block of code that takes an input and gives an output
-def sumall(upto):
-  sumupto = 0
-  for i in range (1, upto + 1):
-    sumupto = sumupto + 1
-  return sumupto #output or point of the function
+def factorial(i):           #factorial is the function name and i is the argument(or info that is passed to a function, or Input) 
+    number = 1              #this is the Output
+    while i>0:              #while i is a positive integer return its factorial
+        number=number*i     #Output is the number multiplied by the positive integer
+        i = i - 1           #the positive integer should be minus 1
+    return number           #return number and continue the loop while i is equal 1, then stop the loop
 
-print("The sum of the values from 1 to 50 inclusive is: ", sumall(50)) # calls the sumall function with 50 as the value upto
-print("The sum of the values from 1 to 5 inclusive is: ", sumall(5))
-
-
-
-def gcd(x, y):
-  while x != 0 and y != 0:
-    if x > y:
-      x = x % y
-    else:
-      y = y % x
-  if x ==0:
-    return y
-  else:
-      return x
-
-print("GCD of 6 and 15:", gcd(6, 15))
+# three seperate calls to the defined functrion
+print("The factorial of #5 is:",factorial(5))       # call the factorial function with 5 as the value i
+print("The factorial of #7 is:",factorial(7))       # call the factorial function with 7 as the value i
+print("The factorial of #10 is:",factorial(10))     # call the factorial function with 10 as the value i
