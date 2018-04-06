@@ -1,5 +1,6 @@
-Julian Conneely, 2018-03-28
-Python-Problem-Sets
+# Julian Conneely, 2018-04-06
+## Python-Problem-Sets
+## My Python exercises for '52167 -- PROGRAMMING AND SCRIPTING module' - Spring 2018
 
 fib.py contains exercise 1
 
