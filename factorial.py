@@ -1,7 +1,7 @@
 # Julian Conneely 04/04/18
 # Exercise 6
 # A function called factorial() that takes a single input/argument which is a positive integer and returns its factorial
-# #The factorial of a number is that number multiplied by all of the positive numbers less than it
+# The factorial of a number is that number multiplied by all of the positive numbers less than it
 
 def factorial(i):           #factorial is the function name and i is the argument(or info that is passed to a function, or Input) 
     number = 1              #this is the Output
