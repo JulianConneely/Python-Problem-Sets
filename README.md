@@ -1,11 +1,11 @@
 ## My Python exercises for '52167 -- PROGRAMMING AND SCRIPTING module' - Spring 2018
 ### Julian Conneely, 2018-04-06
 
-## Python-Problem-Sets
 
-### *This repository contains Python code
-### *This is where you download Anaconda to run these exercises https://www.anaconda.com/download/
-### *I recomend you run them in Visual Studio Code
+#### *This repository contains Python code
+#### *Download Anaconda here https://www.anaconda.com/download/ to run these exercises
+#### *I recomend you run them in Visual Studio Code
+
 
 1. fib.py contains exercise 1
 
