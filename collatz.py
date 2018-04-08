@@ -10,4 +10,4 @@ while n != 1:       # while n is not equal to 1 do this
     n = (n * 3) + 1 # n should be multiplied by 2 with and add 1
     print (n)       # print n in the integrated terminal 
 
-print ("the final value of n is 1")3
+print ("the final value of n is 1")
